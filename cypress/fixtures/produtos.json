@@ -1,0 +1,23 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "XL",
+        "cor": "Yellow",
+        "quantidade": 5
+    },
+
+    {
+        "nomeProduto": "Troy Yoga Short",
+        "tamanho": "34",
+        "cor": "Green",
+        "quantidade": 7
+    }
+
+]
